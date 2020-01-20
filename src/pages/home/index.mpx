@@ -1,0 +1,15 @@
+<template lang="wxml">
+  <view>
+
+  </view>
+</template>
+
+<style lang="stylus"></style>
+
+<script lang="ts" src="./index.ts"></script>
+
+<script type="application/json" lang="json">
+  {
+    "navigationBarTitleText": "首页"
+  }
+</script>
